@@ -2,9 +2,9 @@
 
 *at once an indecision and a structure, like the symbol of the Cross* - William Empson
 
-In the 1935 text, Some Versions of Pastoral, the mathematician turned literary critic, William Empson, states that Shakespeare’s Sonnet 94 has 4096 different meanings. 
+In the 1935 text, *Some Versions of Pastoral*, the mathematician turned literary critic, William Empson, states that Shakespeare’s Sonnet 94 has 4096 different meanings. 
 
-This program provides a visual explanation of how Empson arrives at this number 4096.
+This program implements Empson's generative scheme and in so doing provides a visual explanation of how Empson arrives at this number 4096.
 
 ## Motivation
 
@@ -13,10 +13,11 @@ This program provides a visual explanation of how Empson arrives at this number 
 
 ## Screenshots
 
-<img src="./README_media/matrix.png" alt="nouns" width="300px"/>
+<img src="./README_media/matrix.png" alt="nouns" width="200px"/>
+<br />
 <img src="./README_media/key_nouns.png" alt="nouns" width="400px"/>
-<img src="./README_media/permutations.png" alt="nouns" width="500px"/>
-<img src="./README_media/scheme.png" alt="nouns" width="500px"/>
+<img src="./README_media/permutations.png" alt="nouns" width="650px"/>
+<img src="./README_media/scheme.png" alt="nouns" width="650px"/>
 
 ## William Empson
 
